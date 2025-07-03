@@ -23,8 +23,8 @@ Copy updated input (adamantane.xyz) and job file (run_qcxms2.slurm) to your test
 `cp adamantane.xyz run_qcxms2.slurm <testQC>`
 Within TEST DIRECTORY run: 
 `sbatch run_qcxms2.slurm`
-Go to QCXMS2 (Job Submission Google Sheet)[https://docs.google.com/spreadsheets/d/1DPYk6q5WWcy38770s3foaJSAHkoZPg71ZURx3tFMewE/edit?gid=958390659#gid=958390659 
-] and Input Information
+Go to QCXMS2 [Job Submission Google Sheet](https://docs.google.com/spreadsheets/d/1DPYk6q5WWcy38770s3foaJSAHkoZPg71ZURx3tFMewE/edit?gid=958390659#gid=958390659 
+) and Input Information
 Job is now submitted to CARC, so wait for CARC to email you when your job is finished. 
 To check on personal job run: `myqueue`
 
